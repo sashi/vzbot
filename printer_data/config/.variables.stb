@@ -1,0 +1,3 @@
+[Variables]
+pressure_advance = [{'id': 'ABS', 'val': [{'nozzle': 0.4, 'pa': 0.032, 'st': 0.04}]}, {'id': 'PLA', 'val': [{'nozzle': 0.4, 'pa': 0.03, 'st': 0.04}]}]
+
