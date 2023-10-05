@@ -41,10 +41,3 @@ origin = https://github.com/mainsail-crew/crowsnest.git
 managed_services = crowsnest
 install_script = tools/pkglist.sh
 
-[timelapse]
-enabled = false
-output_path = ~/printer_data/timelapse
-frame_path = /tmp/timelapse/printer
-park_custom_pos_x = 15
-park_custom_pos_y = 20
-

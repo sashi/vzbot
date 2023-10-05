@@ -1,6 +1,6 @@
 [Variables]
-build_sheet g10 = {'name': 'G10', 'offset': -3.9}
+build_sheet g10 = {'name': 'G10', 'offset': -10.580}
 build_sheet installed = 'build_sheet g10'
-build_sheet whambam = {'name': 'WHAMBAM', 'offset': -4.74}
+build_sheet whambam = {'name': 'WHAMBAM', 'offset': -10.450}
 pressure_advance = [{'id': 'ABS', 'val': [{'nozzle': 0.4, 'pa': 0.032, 'st': 0.04}]}, {'id': 'PLA', 'val': [{'nozzle': 0.4, 'pa': 0.03, 'st': 0.04}]}]
 
