@@ -1,0 +1,8 @@
+[Variables]
+build_sheet hbtex = {'name': 'hbtex', 'offset': 0.0}
+build_sheet installed = 'build_sheet hbtex'
+build_sheet pet = {'name': 'pet', 'offset': 0.5}
+build_sheet texturedpei = {'name': 'texturedpei', 'offset': -0.05}
+build_sheet whambam = {'name': 'whambam', 'offset': 1.305}
+pressure_advance = [{'id': 'ABS', 'val': [{'nozzle': 0.4, 'pa': 0.019, 'st': 0.01}]}, {'id': 'PLA', 'val': [{'nozzle': 0.4, 'pa': 0.015, 'st': 0.01}]}, {'id': 'ASA', 'val': [{'nozzle': 0.4, 'pa': 0.019, 'st': 0.01}]}]
+
